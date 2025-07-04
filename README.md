@@ -1,0 +1,1 @@
+A simple Java console-based Quiz Application developed as a mini project to test and enhance core Java skills. The quiz allows users to answer a set of multiple-choice questions and provides a final score based on their performance.
